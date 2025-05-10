@@ -63,13 +63,12 @@ AI Engineer with 11+ years of engineering leadership in the construction and oil
 
 ## 📌 **Pinned Repositories**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Syazwanamin91&repo=recipe-recommendation&theme=radical)](https://github.com/Syazwanamin91/recipe-recommendation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Syazwanamin91&repo=aws-substation&theme=radical)](https://github.com/Syazwanamin91/aws-substation)
+- Coming Soon!
 
 ---
 
 ## 🔍 **Open Source Contributions**
-- Coming Soon!
+- [Bon AI-Petit](https://gaia-capstone05-prd.web.app/)
 
 ---
 
